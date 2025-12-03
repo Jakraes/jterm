@@ -1,7 +1,6 @@
 # JTerm — Single-header cross-platform C TUI library
 
-**JTerm** is a lightweight, header-only, STB-style terminal UI library.  
-Zero dependencies, works on Linux/macOS and Windows 10/11.
+**JTerm** is a lightweight, header-only, STB-style terminal UI library. Zero dependencies, works on Linux/macOS and Windows 10/11.
 
 ```c
 #define JTERM_IMPLEMENTATION
